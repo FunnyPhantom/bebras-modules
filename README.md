@@ -1,3 +1,4 @@
+
 # Compiled directory of JS includes for bebras tasks
 
 This repository contains a static directory structure used in [Bebras tasks](https://github.com/France-ioi/bebras-tasks).
