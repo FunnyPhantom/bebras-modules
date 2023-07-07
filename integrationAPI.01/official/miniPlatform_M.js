@@ -28,6 +28,17 @@
          'canReadSolution': "You can now read the solution at the bottom of this page.",
          'gradeAnswer': 'Test grader'
       },
+      fa: {
+         'task': 'Task',
+         'submission': 'Submission',
+         'solution': 'Solution',
+         'editor': 'Edit',
+         'hints': 'Hints',
+         'showSolution': 'Show solution',
+         'yourScore': "Your score:",
+         'canReadSolution': "You can now read the solution at the bottom of this page.",
+         'gradeAnswer': 'Test grader'
+      },
       fr: {
          'task': 'Exercice',
          'submission': 'Soumission',
