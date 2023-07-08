@@ -29,15 +29,15 @@
          'gradeAnswer': 'Test grader'
       },
       fa: {
-         'task': 'Task',
-         'submission': 'Submission',
-         'solution': 'Solution',
-         'editor': 'Edit',
-         'hints': 'Hints',
-         'showSolution': 'Show solution',
-         'yourScore': "Your score:",
-         'canReadSolution': "You can now read the solution at the bottom of this page.",
-         'gradeAnswer': 'Test grader'
+         'task': 'تمرین',
+         'submission': 'ارسال',
+         'solution': 'جواب',
+         'editor': 'ویرایش',
+         'hints': 'نکات',
+         'showSolution': 'نمایش راه حل',
+         'yourScore': "امتیاز شما:",
+         'canReadSolution': "اکنون می توانید راه حل را در پایین این صفحه بخوانید.",
+         'gradeAnswer': 'نمره آزمون'
       },
       fr: {
          'task': 'Exercice',
@@ -116,7 +116,7 @@
             <div id="main_header" style="width:100%; border-bottom:1px solid #B47238;overflow:hidden">\
                <table style="width:100%;margin: 10px auto;">\
                   <td><img src="' + (window.modulesPath?window.modulesPath:'../../../_common/modules') + '/img/castor.png" width="60px" style="display:inline-block;margin-right:20px;vertical-align:middle"/></td>\
-                  <td><span style="font-size:32px;">Concours castor</span></td>\
+                  <td><span style="font-size:32px;">یادگیری پایتون</span></td>\
                   <td><a href="http://concours.castor-informatique.fr/" style="display:inline-block;text-align:right;">Le concours Castor</a></td>\
                </table>\
             </div>'
@@ -126,7 +126,7 @@
             <div id="main_header" style="width:100%; border-bottom:1px solid #B47238;overflow:hidden">\
                <table style="width:770px;margin: 10px auto;">\
                   <td><img src="' + (window.modulesPath?window.modulesPath:'../../../_common/modules') + '/img/alkindi-logo.png" width="60px" style="display:inline-block;margin-right:20px;vertical-align:middle"/></td>\
-                  <td><span style="font-size:32px;">Concours Alkindi</span></td>\
+                  <td><span style="font-size:32px;">یادگیری پایتون</span></td>\
                   <td><a href="http://concours-alkindi.fr/home.html#/" style="display:inline-block;text-align:right;">Le concours Alkindi</a></td>\
                </table>\
             </div>'
