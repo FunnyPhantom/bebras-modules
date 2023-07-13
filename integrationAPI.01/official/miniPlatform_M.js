@@ -117,7 +117,7 @@
                <table style="width:100%;margin: 10px auto;">\
                   <td><img src="' + (window.modulesPath?window.modulesPath:'../../../_common/modules') + '/img/castor.png" width="60px" style="display:inline-block;margin-right:20px;vertical-align:middle"/></td>\
                   <td><span style="font-size:32px;">یادگیری پایتون</span></td>\
-                  <td><a href="http://homework.movahedmanesh.ir/" style="display:inline-block;text-align:right;">صفحه اصلی</a></td>\
+                  <td><a href="http://questions.learn-python.ir/" style="display:inline-block;text-align:right;">صفحه اصلی</a></td>\
                </table>\
             </div>'
       },
@@ -127,7 +127,7 @@
                <table style="width:770px;margin: 10px auto;">\
                   <td><img src="' + (window.modulesPath?window.modulesPath:'../../../_common/modules') + '/img/alkindi-logo.png" width="60px" style="display:inline-block;margin-right:20px;vertical-align:middle"/></td>\
                   <td><span style="font-size:32px;">یادگیری پایتون</span></td>\
-                  <td><a href="http://homework.movahedmanesh.ir/" style="display:inline-block;text-align:right;">صفحه اصلی</a></td>\
+                  <td><a href="http://questions.learn-python.ir/" style="display:inline-block;text-align:right;">صفحه اصلی</a></td>\
                </table>\
             </div>'
       },
